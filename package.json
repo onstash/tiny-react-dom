@@ -1,0 +1,10 @@
+{
+  "name": "tiny-react-dom",
+  "version": "0.0.1",
+  "description": "A lightweight implementation to learn custom renderers",
+  "main": "index.js",
+  "repository": "https://github.com/onstash/tiny-react-dom",
+  "author": "Santosh Venkatraman <santosh.venk@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
